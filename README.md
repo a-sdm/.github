@@ -45,6 +45,43 @@ Resources in this repository are automatically available to all repositories in 
 
 For more information about ASDM and our approach to AI-powered software development, visit [asdm.ai](https://asdm.ai).
 
+## ASDM Platform
+
+The [ASDM Platform](https://platform.asdm.ai) is a practical implementation of the ASDM methodology, providing tools and environments for AI-first software development. The platform enables teams to build modern, AI-powered applications using the principles outlined above.
+
+### Example Projects
+
+The platform showcases various example projects that demonstrate ASDM principles in action:
+
+#### Core Banking Transaction Engine
+
+The **Core Banking Transaction Engine** ([platform.asdm.ai/core-banking/transaction-engine](https://platform.asdm.ai/core-banking/transaction-engine)) is a comprehensive example demonstrating how ASDM can be applied to build complex financial systems. This project includes:
+
+**Key Features:**
+- **Real-Time Transaction Processing**: Handles deposits, withdrawals, transfers, and payments with immediate balance updates
+- **AI-Powered Fraud Detection**: Machine learning models that continuously learn and adapt to detect fraudulent transactions
+- **Account Management**: Complete customer account lifecycle including creation, maintenance, and statements
+- **Event-Driven Architecture**: Microservices-based design for scalability and reliability
+- **Automated Compliance**: Built-in regulatory reporting and audit trails
+- **API-First Design**: RESTful APIs for integration with other banking services and channels
+
+**ASDM Principles in Practice:**
+- **AI-First Development**: AI assists in code generation, test creation, and architecture decisions throughout the project
+- **Context Preservation**: Comprehensive documentation of design decisions and their rationale
+- **Continuous Integration**: Automated testing and deployment pipelines ensuring quality
+- **Modular Architecture**: Clear separation of concerns enabling easier maintenance and evolution
+
+This example demonstrates how ASDM enables rapid development of production-grade systems while maintaining code quality, security, and comprehensive documentation.
+
+### Platform Capabilities
+
+The ASDM Platform provides:
+- **Project Templates**: Pre-configured setups for common application types
+- **AI Development Tools**: Integrated AI assistants for coding, testing, and documentation
+- **Context Management**: Built-in systems for preserving design rationale and technical decisions
+- **Automated Workflows**: CI/CD pipelines aligned with ASDM best practices
+- **Collaboration Features**: Tools for human-AI collaboration throughout the development lifecycle
+
 ## Contributing
 
 Improvements to our shared resources are welcome! Please follow ASDM principles when proposing changes:
