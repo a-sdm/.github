@@ -45,44 +45,6 @@ Resources in this repository are automatically available to all repositories in 
 
 For more information about ASDM and our approach to AI-powered software development, visit [asdm.ai](https://asdm.ai).
 
-## ASDM Platform
-
-The [ASDM Platform](https://platform.asdm.ai) is a practical implementation of the ASDM methodology, providing tools and environments for AI-first software development. The platform enables teams to build modern, AI-powered applications using the principles outlined above.
-
-### Platform Structure & Features
-
-The platform demonstrates its capabilities through example projects. One such example is the **Core Banking Transaction Engine** ([platform.asdm.ai/core-banking/transaction-engine](https://platform.asdm.ai/core-banking/transaction-engine)), which showcases the platform's structural features:
-
-**Project Organization:**
-- **Structured Project Hierarchy**: Projects are organized with clear navigation, showing how complex applications are broken down into manageable components
-- **Visual Architecture Views**: The platform provides visual representations of system architecture and component relationships
-- **Interactive Documentation**: In-context documentation that explains both what the code does and why design decisions were made
-- **Code-Context Linking**: Direct connections between code implementations and their architectural context
-
-**Platform Development Features:**
-- **AI-Assisted Code Generation**: Real-time AI assistance for generating code that follows established patterns and best practices
-- **Context-Aware Suggestions**: The platform maintains awareness of project context to provide relevant recommendations
-- **Integrated Testing Environment**: Built-in testing capabilities that validate code changes immediately
-- **Version Control Integration**: Seamless integration with version control showing evolution of decisions over time
-- **Collaborative Workspace**: Tools enabling both human developers and AI to work together effectively
-
-**Quality & Documentation:**
-- **Automated Documentation Generation**: The platform generates and maintains documentation as code evolves
-- **Design Decision Tracking**: Explicit capture of why certain technical choices were made
-- **Quality Metrics Dashboard**: Real-time visibility into code quality, test coverage, and technical debt
-- **Continuous Validation**: Automated checks ensuring code meets quality standards and architectural guidelines
-
-This example illustrates how the ASDM platform structures projects to maintain clarity, traceability, and quality throughout the development lifecycle, regardless of the business domain.
-
-### Platform Capabilities
-
-The ASDM Platform provides:
-- **Project Templates**: Pre-configured setups for common application types
-- **AI Development Tools**: Integrated AI assistants for coding, testing, and documentation
-- **Context Management**: Built-in systems for preserving design rationale and technical decisions
-- **Automated Workflows**: CI/CD pipelines aligned with ASDM best practices
-- **Collaboration Features**: Tools for human-AI collaboration throughout the development lifecycle
-
 ## Contributing
 
 Improvements to our shared resources are welcome! Please follow ASDM principles when proposing changes:
