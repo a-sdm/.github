@@ -7,6 +7,7 @@ ASDM is a modern framework that integrates artificial intelligence throughout th
 ## Quick Links
 
 - [Official Website](https://asdm.ai)
+- [Platform](https://platform.asdm.ai)
 - [Documentation](https://asdm.ai/docs)
 - [GitHub Organization](https://github.com/a-sdm)
 
