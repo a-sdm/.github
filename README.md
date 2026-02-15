@@ -49,29 +49,30 @@ For more information about ASDM and our approach to AI-powered software developm
 
 The [ASDM Platform](https://platform.asdm.ai) is a practical implementation of the ASDM methodology, providing tools and environments for AI-first software development. The platform enables teams to build modern, AI-powered applications using the principles outlined above.
 
-### Example Projects
+### Platform Structure & Features
 
-The platform showcases various example projects that demonstrate ASDM principles in action:
+The platform demonstrates its capabilities through example projects. One such example is the **Core Banking Transaction Engine** ([platform.asdm.ai/core-banking/transaction-engine](https://platform.asdm.ai/core-banking/transaction-engine)), which showcases the platform's structural features:
 
-#### Core Banking Transaction Engine
+**Project Organization:**
+- **Structured Project Hierarchy**: Projects are organized with clear navigation, showing how complex applications are broken down into manageable components
+- **Visual Architecture Views**: The platform provides visual representations of system architecture and component relationships
+- **Interactive Documentation**: In-context documentation that explains both what the code does and why design decisions were made
+- **Code-Context Linking**: Direct connections between code implementations and their architectural context
 
-The **Core Banking Transaction Engine** ([platform.asdm.ai/core-banking/transaction-engine](https://platform.asdm.ai/core-banking/transaction-engine)) is a comprehensive example demonstrating how ASDM can be applied to build complex financial systems. This project includes:
+**Platform Development Features:**
+- **AI-Assisted Code Generation**: Real-time AI assistance for generating code that follows established patterns and best practices
+- **Context-Aware Suggestions**: The platform maintains awareness of project context to provide relevant recommendations
+- **Integrated Testing Environment**: Built-in testing capabilities that validate code changes immediately
+- **Version Control Integration**: Seamless integration with version control showing evolution of decisions over time
+- **Collaborative Workspace**: Tools enabling both human developers and AI to work together effectively
 
-**Key Features:**
-- **Real-Time Transaction Processing**: Handles deposits, withdrawals, transfers, and payments with immediate balance updates
-- **AI-Powered Fraud Detection**: Machine learning models that continuously learn and adapt to detect fraudulent transactions
-- **Account Management**: Complete customer account lifecycle including creation, maintenance, and statements
-- **Event-Driven Architecture**: Microservices-based design for scalability and reliability
-- **Automated Compliance**: Built-in regulatory reporting and audit trails
-- **API-First Design**: RESTful APIs for integration with other banking services and channels
+**Quality & Documentation:**
+- **Automated Documentation Generation**: The platform generates and maintains documentation as code evolves
+- **Design Decision Tracking**: Explicit capture of why certain technical choices were made
+- **Quality Metrics Dashboard**: Real-time visibility into code quality, test coverage, and technical debt
+- **Continuous Validation**: Automated checks ensuring code meets quality standards and architectural guidelines
 
-**ASDM Principles in Practice:**
-- **AI-First Development**: AI assists in code generation, test creation, and architecture decisions throughout the project
-- **Context Preservation**: Comprehensive documentation of design decisions and their rationale
-- **Continuous Integration**: Automated testing and deployment pipelines ensuring quality
-- **Modular Architecture**: Clear separation of concerns enabling easier maintenance and evolution
-
-This example demonstrates how ASDM enables rapid development of production-grade systems while maintaining code quality, security, and comprehensive documentation.
+This example illustrates how the ASDM platform structures projects to maintain clarity, traceability, and quality throughout the development lifecycle, regardless of the business domain.
 
 ### Platform Capabilities
 
